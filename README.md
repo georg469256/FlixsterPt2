@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/georg469256/FlixsterPt2/blob/master/FlixsterPt2.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/georg469256/FlixsterPt2/blob/master/FlixsterPt2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
